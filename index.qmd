@@ -3,3 +3,5 @@ title: "Our cool website"
 ---
 
 We are working together on this website
+
+![](https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11171429/202105shiba-inu-1214044812-scaled-1.jpg)
