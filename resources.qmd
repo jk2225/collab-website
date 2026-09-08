@@ -1,0 +1,11 @@
+---
+title: "Resources"
+editor: visual
+---
+
+Resources are here.
+
+1.  Cool Resources
+2.  Awesome Resources
+3.  Nice Resources
+4.  Bad Resources
